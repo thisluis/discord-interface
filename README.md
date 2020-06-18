@@ -44,8 +44,7 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias
 - [Styled-Components](https://styled-components.com/docs)
 
 ## :star: Relevante
-
-? 
+Esta aplicação foi uma grande e excelente oportunidade para eu aprender bem sobre **styled-components** e também **Grids** no **CSS**, também pude pela primeira vez, ver um pouco de como o Typescript funciona, e o mais bacana de tudo é que, pude utilizar tudo isso em React.
 
 ## :heavy_check_mark: :computer: Resultado Web
 
