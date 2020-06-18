@@ -43,7 +43,7 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias
 - [ReactJS](https://reactjs.org/)
 - [Styled-Components](https://styled-components.com/docs)
 
-## :rocket: Relevante
+## :star: Relevante
 
 ? 
 
