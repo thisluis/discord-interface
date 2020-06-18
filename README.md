@@ -1,8 +1,7 @@
 <h3 align="center">
 
-    <br><br>
     <b>Interface Discord</b>  
-    <br>
+    
 </h3>
 
 <p align="center">
