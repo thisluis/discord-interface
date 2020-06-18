@@ -85,5 +85,5 @@ O projeto foi promovido pelo **[Guilherme Rodz](https://guilhermerodz.me/)** na 
 ---
 
 <h4 align="center">
-     by <a href="https://www.linkedin.com/in/lu%C3%ADs-felipe-28361a1a8/" target="_blank">Luís Felipe/a>
+     by <a href="https://www.linkedin.com/in/lu%C3%ADs-felipe-28361a1a8/" target="_blank">Luís Felipe</a>
 </h4>
