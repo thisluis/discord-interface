@@ -14,7 +14,7 @@
 - [Sobre](#sobre)
 - [Tecnologias Utilizadas](#tecnologias-utilizadas)
 - [Relevante](#relevante)
-- [Como User](#como-usar)
+- [Como Usar](#como-usar)
 
 <a id="sobre"></a>
 
