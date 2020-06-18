@@ -1,44 +1,88 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<h3 align="center">
+    ![Alt text](http://full/path/to/img.jpg "Optional title")
+    <br><br>
+    <b>Interface Discord</b>  
+    <br>
+</h3>
 
-## Available Scripts
+<p align="center">
+  <a href="https://rocketseat.com.br">
+    <img alt="Made by Rocketseat" src="https://img.shields.io/badge/made%20by-Rocketseat-%237519C1">
+  </a>
 
-In the project directory, you can run:
+# Índice
 
-### `npm start`
+- [Sobre](#sobre)
+- [Tecnologias Utilizadas](#tecnologias-utilizadas)
+- [Relevante](#relevante)
+- [Como User](#como-usar)
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+<a id="sobre"></a>
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+## :bookmark: Sobre
 
-### `npm test`
+A <strong>Interface do Discord</strong> é uma aplicação web feita em Typescript e ReactJs.
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Essa aplicação foi promovida e distribuída pela [Rocketseat](https://rocketseat.com.br/). A ideia de clonar a interface do discord veio da série <strong>UI Clone</strong>
 
-### `npm run build`
+<a id="documentacao"></a>
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## :books: Documentação
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+Como toda a aplicação foi dependente da dependência **Styled-Components** estarei deixando um [link](https://medium.com/nossa-coletividad/styled-components-padr%C3%B5es-em-produ%C3%A7%C3%A3o-4958e91d4d92#:~:text=Essa%20%C3%A9%20uma%20das%20caracter%C3%ADsticas,ele%2C%20n%C3%A3o%20apenas%20elementos%20DOM.)
+ de como ter uma melhor performance e produtividade com este recurso.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+<a id="tecnologias-utilizadas"></a>
 
-### `npm run eject`
+## :rocket: Tecnologias Utilizadas
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+O projeto foi desenvolvido utilizando as seguintes tecnologias
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+- [TypeScript](https://www.typescriptlang.org/)
+- [Node.js](https://nodejs.org/en/)
+- [ReactJS](https://reactjs.org/)
+- [Styled-Components](https://styled-components.com/docs)
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+## :heavy_check_mark: :computer: Resultado Web
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+- O layout está disponível no **[Figma](https://www.figma.com/file/1SxgOMojOB2zYT0Mdk28lB/)**;
 
-## Learn More
+<h1 align="center">
+    <img alt="Web" src=".github/Video.gif" width="900px">
+</h1>
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+<a id="como-usar"></a>
+
+## :fire: Como usar
+
+- ### **Pré-requisitos**
+
+  - É **necessário** possuir o **[Node.js](https://nodejs.org/en/)** instalado na máquina
+  - Também, é **preciso** ter um gerenciador de pacotes seja o **[NPM](https://www.npmjs.com/)** ou **[Yarn](https://yarnpkg.com/)**.
+
+1. Faça um clone :
+
+```sh
+  $ git clone https://github.com/thisluis/discord-interface.git
+```
+
+2. Executando a Aplicação:
+
+```sh
+  # Instale as dependências
+  $ npm install
+
+  # Inicie a aplicação web
+  $ npm start
+```
+
+## :mortar_board: Quem promoveu?
+
+O projeto foi promovido pelo **[Guilherme Rodz](https://guilhermerodz.me/)** nas aulas da **Next Level Week**.
+
+---
+
+<h4 align="center">
+     by <a href="https://www.linkedin.com/in/lu%C3%ADs-felipe-28361a1a8/" target="_blank">Luís Felipe/a>
+</h4>
