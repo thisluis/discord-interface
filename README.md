@@ -1,6 +1,6 @@
 <h3 align="center">
 
-    <b>Interface Discord</b>  
+    Interface Discord
     
 </h3>
 
