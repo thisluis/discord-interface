@@ -47,9 +47,7 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias
 
 - Aqui está
 
-<h1 align="center">
     ![Alt text](https://pbs.twimg.com/media/EazR6hiXkAIEAOR?format=jpg&name=large "Optional title")
-</h1>
 
 
 <a id="como-usar"></a>
