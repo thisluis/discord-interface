@@ -77,7 +77,7 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias
 
 ## :mortar_board: Quem promoveu?
 
-O projeto foi promovido pelo **[Guilherme Rodz](https://guilhermerodz.me/)** nas aulas da **Next Level Week**.
+O projeto foi promovido pelo **[Guilherme Rodz](https://guilhermerodz.me/)** na aula da **UI Clone**.
 
 ---
 
